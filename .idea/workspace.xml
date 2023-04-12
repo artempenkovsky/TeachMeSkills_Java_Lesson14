@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44d430d4-c5a5-454e-8084-05551a5356b3" name="Changes" comment="" />
+    <list default="true" id="44d430d4-c5a5-454e-8084-05551a5356b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/penkovsky/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/penkovsky/ExchangeRate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/penkovsky/ExchangeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/penkovsky/HomeWork14.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="HomeWork14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.teachmeskills.penkovsky.homework14.HomeWork14" />
+      <module name="HW14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.teachmeskills.penkovsky.homework14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork14" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
